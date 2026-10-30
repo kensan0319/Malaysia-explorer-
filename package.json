@@ -1,0 +1,10 @@
+{
+  "name": "malaysia-3d-explore",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js"
+  }
+}
